@@ -41,7 +41,7 @@ public class MainApplication {
 			c.close();
 		} catch (Exception e) {
 			e.printStackTrace();
-		}ss
+		}
 	}
 	
 }
